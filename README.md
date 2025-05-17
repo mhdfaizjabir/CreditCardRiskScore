@@ -53,4 +53,4 @@ Endpoint tested via Postman for validation
 ### Tools:
 - Python, Pandas, Scikit-learn, XGBoost, Optuna, Imbalanced-learn, Seaborn, Joblib
 
-Streamlit - 
+Streamlit - https://creditcardriskscoreweb.streamlit.app
