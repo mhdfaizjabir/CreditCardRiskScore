@@ -48,6 +48,9 @@ The final logistic regression model was deployed as a real-time REST API using *
   "rating": "Excellent"
 }
 ```
+Endpoint tested via Postman for validation
 
 ### Tools:
 - Python, Pandas, Scikit-learn, XGBoost, Optuna, Imbalanced-learn, Seaborn, Joblib
+
+Streamlit - 
